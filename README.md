@@ -36,15 +36,15 @@ It will ask you to provide a level of password validation policy. I have typed *
 
 <br>
 
-After you press enter, you will be asked few questions. 
+After you press enter, you will be asked a few questions. 
 
-The following image shows my selections. The selections depend on what you want.
+The following image shows my selections. **The selections depend on what you want**.
 
 ![Ask password](images/selections.png)
 
 <br>
 
-Now you can access MySQL by running the command:
+Now, you can access MySQL by running the command:
 
 
 ```bash

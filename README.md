@@ -179,3 +179,5 @@ Just press the link <span style="color:#f03c15">**"No thanks, just start my down
 <br>
 
 Go to the location you have downloaded the file and install it!
+
+Enjoy!!! :-)

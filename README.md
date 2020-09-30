@@ -85,7 +85,7 @@ select user, authentication_string, plugin from mysql.user;
 
 <br>
 
-Now, run this command to take the changes effective immediately.
+Now, run this command to make the changes effective immediately.
 
 ```sql
 FLUSH PRIVILEGES;
